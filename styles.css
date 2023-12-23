@@ -1,0 +1,22 @@
+body {
+  font-family: "Arial", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#joke-container {
+  text-align: center;
+}
+
+#fetch-btn {
+  margin-top: 20px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #0e521c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
