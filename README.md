@@ -1,6 +1,6 @@
 # Random Joke Generator
 
-[Author Website](https://codingissimple.com)
+[Visit our website](https://codingissimple.com)
 
 [Learn asynchronous programming in JavaScript to build this app](https://codingissimple.com/how-to-return-response-from-an-asynchronous-call-in-javascript/)
 
