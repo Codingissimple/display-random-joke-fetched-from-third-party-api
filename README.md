@@ -6,15 +6,6 @@
 
 This simple web application fetches a random joke from a third-party API endpoint: [https://v2.jokeapi.dev/joke/Any](https://v2.jokeapi.dev/joke/Any).
 
-## Instructions
-
-1. Clone or download the repository to your local machine.
-
-2. Open the `index.html` file in a web browser.
-
-3. The page will display a random joke fetched from the API.
-
-4. Click the "Fetch Random Joke" button to fetch a new random joke.
 
 ## Disclaimer
 
