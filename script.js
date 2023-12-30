@@ -1,6 +1,6 @@
 function fetchRandomJoke() {
   return new Promise((resolve, reject) => {
-    fetch("https://v2.jokeapi.dev/joke/Any")
+    fetch("https://v2.jokeapi.dev/joke/Programming")
       .then((response) => {
         if (response.ok) {
           return response.json();
